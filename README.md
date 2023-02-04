@@ -24,4 +24,5 @@ Onde me encontrar:
 
 <br>
 <br>
+
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=dusorensen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
