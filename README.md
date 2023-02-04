@@ -1,5 +1,6 @@
 <h1 align="center"> Eai👋 </h1>
 
+<h2>😃 Quem sou eu?</h2>
 <p>Meu nome é <strong>Eduardo</strong>, sou um programador Front-End, estou aprendendo e criando projetos com:</p> 
 <br>
 
@@ -10,9 +11,8 @@
 </ul>
 
 <br>
-<h1🌎 Onde me encontrar:</h1>
-<br>
-<br>
+
+<h2>🌎 Onde me encontrar:</h2>
 <p>
 <a href="https://www.instagram.com/dusorensen/" target="_blank">
  <img align="left" alt="instagram-logo" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" /> 
@@ -24,5 +24,8 @@
 
 <br>
 <br>
+<br>
+
+<h2>📊 Minhas estatisticas</h2>
 
 [![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=dusorensen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
