@@ -1,7 +1,9 @@
 <h1 align="center"> Eai👋 </h1>
 
 <h2>😃 Quem sou eu?</h2>
-<p>Meu nome é <strong>Eduardo</strong>, sou um programador Front-End, estou aprendendo e criando projetos com:</p> 
+<p>
+ Meu nome é <strong>Eduardo</strong>, sou um programador Front-End, estou aprendendo e criando projetos com:
+</p> 
 <br>
 
 <ul>
