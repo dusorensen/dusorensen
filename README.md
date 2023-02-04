@@ -12,13 +12,17 @@
 <br>
 Onde me encontrar: 
 <br>
-
+<br>
 <p>
-<a href="https://www.instagram.com/dusorensen/" target="_blank"> <br> <img align="left" alt="instagram-logo" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" /> </a>
-<a href="https://www.linkedin.com/in/eduardo-rafael-sorensen-714112257/" target="_blank"> <br> <img align="left" alt="linkedin" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/> </a>
+<a href="https://www.instagram.com/dusorensen/" target="_blank">
+ <img align="left" alt="instagram-logo" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" /> 
+  </a>
+<a href="https://www.linkedin.com/in/eduardo-rafael-sorensen-714112257/" target="_blank">
+  <img align="left" alt="linkedin" width="30px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/> 
+  </a>
 </p>
 
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dusorensen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=dusorensen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
